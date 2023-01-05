@@ -43,7 +43,8 @@ For more information, tutorials, etc., please view the project's [wiki](https://
 - [x] Handles and processes incoming webhooks
 - [x] Handles and verifies incoming app proxy requests
 - [x] Namespacing abilities to run multiple apps on the same database
-- [x] Do no wrong
+- [ ] Do no wrong
+- [x] Help someone in need!
 
 ## Documentation
 
