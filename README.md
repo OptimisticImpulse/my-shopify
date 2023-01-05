@@ -8,9 +8,6 @@
 
 **[Closing]**
 
-**Please read [this announcement](https://github.com/osiset/laravel-shopify/discussions/1276).**
-
-@kyon147 is going to maintain a version which you can find here https://github.com/Kyon147/laravel-shopify 
 
 ----
 
