@@ -33,16 +33,16 @@ For more information, tutorials, etc., please view the project's [wiki](https://
 
 ## Goals
 
-- [x] Provide assistance in developing Shopify apps with Laravel
+- [ ] Provide assistance in developing Shopify apps with Laravel
 - [x] Integration with Shopify API (REST, async REST, GraphQL)
 - [x] Authentication & installation for shops (both per-user and offline types)
-- [x] Plan & billing integration for single, recurring, and usage-types
+- [ ] Plan & billing integration for single, recurring, and usage-types
 - [x] Tracking charges to a shop (recurring, single, usage, etc) with trial support
 - [x] Auto install app webhooks and scripttags through background jobs
-- [x] Provide basic AppBridge views
+- [ ] Provide basic AppBridge views
 - [x] Handles and processes incoming webhooks
 - [x] Handles and verifies incoming app proxy requests
-- [x] Namespacing abilities to run multiple apps on the same database
+- [ ] Namespacing abilities to run multiple apps on the same database
 
 ## Documentation
 
