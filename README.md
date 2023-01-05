@@ -71,17 +71,6 @@ Contributions are always welcome! Contibutors are updated each release, pulled f
 
 If you're looking to become a contributor, please see `CONTRIBUTING.md`.
 
-#### Maintainers
-
-Maintainers are users who manage the repository itself, whether it's managing the issues, assisting in releases, or helping with pull requests.
-
-Currently this repository is maintained by:
-
-- [@osiset](https://github.com/osiset)
-- [@kyon147](https://github.com/kyon147)
-- [@lucasmichot](https://github.com/lucasmichot)
-
-Looking to become a maintainer? E-mail @osiset directly.
 
 ### Special Note
 
