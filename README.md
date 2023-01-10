@@ -1,4 +1,4 @@
-# Laravel Shopify App
+# Laravel Shopify App (Master)
 
 ![Tests](https://github.com/osiset/laravel-shopify/workflows/Package%20Test/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/osiset/laravel-shopify/branch/master/graph/badge.svg?token=qqUuLItqJj)](https://codecov.io/gh/osiset/laravel-shopify)
